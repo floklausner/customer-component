@@ -1,0 +1,58 @@
+[
+  {
+    "lastname": "Klausner",
+    "firstname": "Florian",
+    "email": "klausnerflo@gmail.com",
+    "age": 18,
+    "wohnort": "Sankt Florian",
+    "zweig": "Medientechnik"
+  },
+  {
+    "lastname": "Ratzenböck",
+    "firstname": "Jakob",
+    "email": "jaki.ratzi@gmail.com",
+    "age": 19,
+    "wohnort": "Bad Leonfelden",
+    "zweig": "Elektronik"
+  },
+  {
+    "lastname": "Dumfarth",
+    "firstname": "Felix",
+    "email": "flexi.dumfi@gmail.com",
+    "age": 19,
+    "wohnort": "Leonding",
+    "zweig": "Informatik"
+  },
+  {
+    "lastname": "Wiesinger",
+    "firstname": "Jonas",
+    "email": "jonas.wiesi@gmail.com",
+    "age": 18,
+    "wohnort": "Wels",
+    "zweig": "Informatik"
+  },
+  {
+    "lastname": "Besic",
+    "firstname": "Meris",
+    "email": "meris.besic@gmail.com",
+    "age": 18,
+    "wohnort": "Ennsdorf",
+    "zweig": "Medientechnik"
+  },
+  {
+    "lastname": "Knogler",
+    "firstname": "Simon",
+    "email": "simsi.knogler@gmail.com",
+    "age": 18,
+    "wohnort": "Eferding",
+    "zweig": "Medizintechnik"
+  },
+  {
+    "lastname": "Kalinke",
+    "firstname": "Silvio",
+    "email": "silvi.kalinke@gmail.com",
+    "age": 19,
+    "wohnort": "Andorf",
+    "zweig": "Medientechnik"
+  }
+]
